@@ -1,2 +1,2 @@
 #!/bin/bash
- ls -Ft | grep -v / | grep -v "*" | head
+ ls -pt | grep -v / | head
