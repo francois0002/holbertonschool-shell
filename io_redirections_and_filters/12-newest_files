@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ft . | head 
+ls -Ft | grep -v / | head
