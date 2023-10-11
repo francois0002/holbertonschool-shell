@@ -1,2 +1,4 @@
 #!/bin/bash
-printf "%.2f" $NUM
+NUM=34.33
+printf "%.2d" $NUM
+
