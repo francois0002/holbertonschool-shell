@@ -1,3 +1,2 @@
 #!/bin/bash
-NUM=80
 printf "%.2f" $NUM
