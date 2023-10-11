@@ -1,2 +1,3 @@
 #!/bin/bash
-printf "%.2d" $NUM
+NUM=80
+printf "%.2f" $NUM
